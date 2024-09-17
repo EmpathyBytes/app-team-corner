@@ -1,5 +1,5 @@
 ## Onboarding Resources
-
+[Link to onboarding Google Doc](https://docs.google.com/document/d/1qvGCSXBKyY6P98YTjpRZudX_XaFQIx2EHWVMKfgpkMg/edit?usp=sharing)
 ### General Resources:
 [React Native Documentation](https://reactnative.dev/docs/getting-started)\
 [React Native Navigation Guide](https://reactnavigation.org/docs/getting-started/)\
